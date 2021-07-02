@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/Assets/Images/wallpaper3.png);
+    background-image: url(wallpaper3.png);
     /* background: #ffffff; */
     background-size: cover;
     overflow: hidden;
