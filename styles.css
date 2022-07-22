@@ -3,8 +3,8 @@
     padding: 0;
 }
 body{
-/*     background-image: url(Windows-11-wallpaper2-.jpeg); */
-    background: #ffffffff;
+    background-image: url(/Windows-11-wallpaper1-1920x1200.jpeg);
+    /* background: #ffffffff; */
     background-size: cover;
     overflow: hidden;
     height: 100vh;
@@ -38,7 +38,7 @@ video{
 }
 .startmenu{
     position: absolute;
-    bottom: -590px;
+    bottom:-550px;
     width: 100%;
     text-align: center;
     transition: all 0.3s ease-in;
